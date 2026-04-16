@@ -20,10 +20,10 @@
 * [**Biomolecular Dynamics Simulation**](https://github.com/KynaHui/Biomolecular_dynamics_simulations)
   * *Computational simulations for biomolecular structures and interactions.*
 
-### 🤖 Machine Learning & Tech
+### Machine Learning & Tech
 * [**Supervised Learning Fundamentals**](https://github.com/KynaHui/DecisionTree_SVM_ensembleLearning)
   * *Implementations of Decision Trees, Support Vector Machines (SVM), and Naive Bayes.*
 
-### 🛠️ In Progress
+### In Progress
 * **Self-study Coursework** — (Repos currently private).
 * **Random Utility Tools** — Personal scripts and productivity automations (Repos currently private).
