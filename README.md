@@ -25,7 +25,8 @@
   * *Implementations of Decision Trees, Support Vector Machines (SVM), and Naive Bayes.*
 
 ### In Progress
-* **Self-study Coursework** — (Repos currently private).
 * **Random Utility Tools** — Personal scripts and productivity automations
   * [Question Bank Tool](https://github.com/KynaHui/qbtool)
     * Generate a filtered worksheet by choosing questions from question bank in pdf format.
+* **Self-study Coursework** — (Repos currently private).
+
