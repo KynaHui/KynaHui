@@ -26,4 +26,6 @@
 
 ### In Progress
 * **Self-study Coursework** — (Repos currently private).
-* **Random Utility Tools** — Personal scripts and productivity automations (Repos currently private).
+* **Random Utility Tools** — Personal scripts and productivity automations
+  * [Question Bank Tool](https://github.com/KynaHui/qbtool)
+    * Generate worksheet by choosing questions from question bank, specific filter applied. 
