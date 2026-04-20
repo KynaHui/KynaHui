@@ -27,6 +27,6 @@
 ### In Progress
 * **Random Utility Tools** — Personal scripts and productivity automations
   * [Question Bank Tool](https://github.com/KynaHui/qbtool)
-    * Generate a filtered worksheet by choosing questions from question bank in pdf format.
+    * * Generate a difficulty / topic filtered worksheet by choosing questions from a pdf of question bank.*
 * **Self-study Coursework** — (Repos currently private).
 
