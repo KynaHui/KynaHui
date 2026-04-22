@@ -5,7 +5,7 @@
 - [Medical Informatics & Imaging](#-medical-informatics--imaging)
 - [Machine Learning & Tech](#-machine-learning--tech)
 - [In Progress](#-in-progress)
-
+- [Productivity Automations](#-productivity-automations)
 ---
 
 ### Medical Informatics & Imaging
@@ -25,8 +25,7 @@
   * *Implementations of Decision Trees, Support Vector Machines (SVM), and Naive Bayes.*
 
 
-### Random Utility Tools
-— Personal scripts and productivity automations
+### Productivity Automations
   * [Question Bank Tool](https://github.com/KynaHui/qbtool)
     * *Generate a difficulty / topic filtered worksheet by choosing questions from a pdf of question bank.*
 
