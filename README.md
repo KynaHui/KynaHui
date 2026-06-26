@@ -11,11 +11,11 @@
 ### Medical Informatics & Imaging
 * [**nnUNet Segmentation Benchmark**](https://github.com/KynaHui/nnunet-segmentation-benchmark)
   * *Automated 3D segmentation using deep learning techniques.*
-* [**OCTMNIST Rentinal Classification**](https://github.com/KynaHui/octmnist-retinal-classification)
+* [**OCTMNIST Retinal Classification**](https://github.com/KynaHui/octmnist-retinal-classification)
   * *Classification of Optical Coherence Tomography images for disease diagnosis.*
 * [**Chest X-ray Classification Benchmark**](https://github.com/KynaHui/chest-xray-classification-benchmark)
   * *Ensemble approach using VGG16 and ResNet101 architectures.*
-* [**Genomic Data Analysis**](https://github.com/KynaHui/Statistical_dataAnalysis_genomics)
+* [**Gene Expression Classification and Clustering**](https://github.com/KynaHui/gene-expression-classification-clustering)
   * *Statistical analysis and processing of large-scale genomic datasets.*
 * [**Biomolecular Dynamics Simulation**](https://github.com/KynaHui/Biomolecular_dynamics_simulations)
   * *Computational simulations for biomolecular structures and interactions.*
