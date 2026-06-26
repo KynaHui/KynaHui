@@ -9,11 +9,11 @@
 ---
 
 ### Medical Informatics & Imaging
-* [**Liver Tumor Segmentation in 3D Images**](https://github.com/KynaHui/Liver_tumor_segmentation)
+* [**nnUNet Segmentation Benchmark**](https://github.com/KynaHui/nnunet-segmentation-benchmark)
   * *Automated 3D segmentation using deep learning techniques.*
 * [**Medical Image Ensemble Learning**](https://github.com/KynaHui/Medical_image_ensemble_learning)
   * *Ensemble approach using VGG16 and ResNet101 architectures.*
-* [**OCT Eye Disease Classification**](https://github.com/KynaHui/OCT_eye_disease_classification)
+* [**OCTMNIST Rentinal Classification**](https://github.com/KynaHui/octmnist-retinal-classification)
   * *Classification of Optical Coherence Tomography images for disease diagnosis.*
 * [**Genomic Data Analysis**](https://github.com/KynaHui/Statistical_dataAnalysis_genomics)
   * *Statistical analysis and processing of large-scale genomic datasets.*
