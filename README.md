@@ -1,34 +1,31 @@
+I’m interested in machine learning, computational imaging, and scientific data analysis. My projects span image classification, segmentation, simulation, and high-dimensional data analysis, with applications in healthcare and biomedical research.
 
 ---
 
 ### Directory
-- [Medical Informatics & Imaging](#-medical-informatics--imaging)
-- [Machine Learning & Tech](#-machine-learning--tech)
-- [In Progress](#-in-progress)
-- [Productivity Automations](#-productivity-automations)
+- [Machine Learning & AI](#-machine-learning--ai)
+- [Computational Imaging & Vision](#-computational-imaging--vision)
+- [Scientific Computing & Data Analysis](#-scientific-computing--data-analysis)
+
 ---
 
-### Medical Informatics & Imaging
-* [**nnUNet Segmentation Benchmark**](https://github.com/KynaHui/nnunet-segmentation-benchmark)
-  * *Automated 3D segmentation using deep learning techniques.*
-* [**OCTMNIST Retinal Classification**](https://github.com/KynaHui/octmnist-retinal-classification)
-  * *Classification of Optical Coherence Tomography images for disease diagnosis.*
-* [**Chest X-ray Classification Benchmark**](https://github.com/KynaHui/chest-xray-classification-benchmark)
-  * *Ensemble approach using VGG16 and ResNet101 architectures.*
-* [**Gene Expression Classification and Clustering**](https://github.com/KynaHui/gene-expression-classification-clustering)
-  * *Statistical analysis and processing of large-scale genomic datasets.*
-* [**Biomolecular Dynamics Simulation**](https://github.com/KynaHui/Biomolecular_dynamics_simulations)
-  * *Computational simulations for biomolecular structures and interactions.*
+### Machine Learning & AI
+* [**Supervised Learning Fundamentals**](https://github.com/KynaHui/trees-kernels-ensembles)  
+  *Implementations of decision trees, SVMs, naive Bayes, and ensemble methods.*
 
-### Machine Learning & Tech
-* [**Supervised Learning Fundamentals**](https://github.com/KynaHui/DecisionTree_SVM_ensembleLearning)
-  * *Implementations of Decision Trees, Support Vector Machines (SVM), and Naive Bayes.*
+* [**Chest X-ray Classification Benchmark**](https://github.com/KynaHui/chest-xray-classification-benchmark)  
+  *Deep learning benchmark for image classification using CNN-based ensemble models.*
 
+### Computational Imaging & Vision
+* [**nnUNet Segmentation Benchmark**](https://github.com/KynaHui/nnunet-segmentation-benchmark)  
+  *Automated 3D image segmentation with deep learning.*
 
-### Productivity Automations
-  * [Question Bank Tool](https://github.com/KynaHui/qbtool)
-    * *Generate a difficulty / topic filtered worksheet by choosing questions from a pdf of question bank.*
+* [**Retinal OCT Classification**](https://github.com/KynaHui/retinal-oct-classification)  
+  *Image classification on retinal OCT scans for diagnostic prediction.*
 
-### In Progress
-* **Self-study Coursework** — (Repos currently private).
+### Scientific Computing & Data Analysis
+* [**Gene Expression Classification and Clustering**](https://github.com/KynaHui/gene-expression-classification-clustering)  
+  *Classification and clustering of high-dimensional gene expression data.*
 
+* [**Monte Carlo and Molecular Dynamics**](https://github.com/KynaHui/monte-carlo-and-molecular-dynamics)  
+  *Simulation methods for complex physical and biomolecular systems.*
